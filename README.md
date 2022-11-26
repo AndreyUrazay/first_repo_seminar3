@@ -4,5 +4,11 @@
 
 Добавил тект через браузер. Add english text in browser.
 
+
 Browser bad text
 Upprecase
+
+## Картинка
+Это яблоко
+
+!["это яблоко"](apple.jpg)
